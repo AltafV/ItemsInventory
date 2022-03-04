@@ -35,6 +35,7 @@ Option 2 - do below
 Change spring.jpa.hibernate.ddl-auto in application.properties to create
 For all future runs please change to update.
 ```
+#### Please note - There are 2 csv files in the root folder that has data for the 2 tables item & list_of_imageurl.
 
 **3. Change mysql username and password as per your installation**
 
